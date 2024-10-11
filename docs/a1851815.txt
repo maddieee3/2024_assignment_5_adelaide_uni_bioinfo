@@ -1,8 +1,5 @@
 ## [unreleased]
 
-### Fixed
-Changed UPPERCASE lettering to lowercase letting in data/a1851815.txt (refer to issue #39)
-
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/1) - including initial errors
@@ -13,3 +10,10 @@ Changed UPPERCASE lettering to lowercase letting in data/a1851815.txt (refer to 
 
 - Initial commit
 
+## [0.1.2] - 2024-10-11
+
+### Fixed
+- Changed UPPERCASE lettering to lowercase letting in data/a1851815.txt (refer to issue #39)
+
+### Fixed
+- Removed unexpected 'XXXXXXX' insertions for file data/a1851815.txt (refer to issue #38)
