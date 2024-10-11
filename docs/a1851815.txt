@@ -1,5 +1,8 @@
 ## [unreleased]
 
+### Fixed
+Removed 3 instances of unexpected 'XXXXXXX' in data/a1851815.txt. Refer to raised issue #38. 
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/1) - including initial errors
